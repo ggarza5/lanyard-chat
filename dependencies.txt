@@ -1,0 +1,17 @@
+uvicorn
+fastapi
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+scikit-learn
+langserve[server]>=0.0.30
+pydantic>
+fuzzywuzzy
+python-dotenv
+langchain-google-genai
+google-generativeai
+langchain-pinecone
+langchain
+langchain-community
+psycopg2-binary
+langchain-groq
+sse_starlette
